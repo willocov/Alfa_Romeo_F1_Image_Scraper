@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-# Alfa_Romeo_F1_Image_Scraper
+# Alfa_Romeo_F1_Wallpaper_Scraper
 
 This script will scrape Alfa Romeo F1 Wallpaper images from Alfa Romeo's F1 website. These artworks are created to promote each race weekend. There are currently 43 image available for download (updated: 2022-11-19).
 
